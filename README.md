@@ -34,7 +34,7 @@ With every correct answer, the intensity builds, pushing reflexes, logic, and vo
 
 ---
 
-# ✅ **Points to Remember**
+### ✅ **Points to Remember**
 
 * The app must contain **at least 2 screens**.
 * Use only the words from the **provided word list** in the repository.
@@ -42,7 +42,7 @@ With every correct answer, the intensity builds, pushing reflexes, logic, and vo
 
 ---
 
-# 🌟 **Extra Points**
+### 🌟 **Extra Points**
 Want to make Sarah proud and impress the judges? Here are a few bonus objectives:
 
 * ✨ **Add animations** when the user clicks the letter tiles
