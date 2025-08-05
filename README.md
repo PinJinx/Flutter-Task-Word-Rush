@@ -36,6 +36,7 @@ With every correct answer, the intensity builds, pushing reflexes, logic, and vo
 
 ### ✅ **Points to Remember**
 
+* The app must be made using **Flutter**.
 * The app must contain **at least 2 screens**.
 * Use only the words from the **provided word list** in the repository.
 * Even if you don’t implement a high score system, **track and display the player's score** at the end of the round.
