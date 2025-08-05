@@ -50,3 +50,8 @@ Want to make Sarah proud and impress the judges? Here are a few bonus objectives
 * 🏆 **Track and store a high score** locally on the device
 * 🔊 **Add sound effects and background music** to liven up the experience
 * 🎨 **Beautify the app’s UI** — a clean look, some fun transitions.
+
+---
+#### Resources
+- [Flutter Docs](https://docs.flutter.dev/)
+- [Installation Guide](https://www.dhiwise.com/post/a-step-by-step-guide-to-installing-and-configuring-flutter)
